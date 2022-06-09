@@ -11,6 +11,7 @@ class Hangman
      end
 
     def words
+        #add more arrays to increase the number of words that can be guessed
         [
             ["cricket", "A game loved by indians"],
             ["jogging", "we are not walking"],
